@@ -15,3 +15,4 @@ improved_prompt=response.choices[0].message.content
 print("Cycle {i} (Improved Prompt):")
 print(improved_prompt)
 prompt=improved_prompt
+
